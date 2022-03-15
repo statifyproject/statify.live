@@ -1,0 +1,10 @@
+#particle-div {
+    margin: 0 auto;
+    background-color: black;
+    width: 100vw !important;
+    height: 100vh !important;
+}
+
+body {
+    background-color: black
+}
