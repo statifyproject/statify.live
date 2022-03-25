@@ -4,7 +4,15 @@
     background-color: black;
 }
 
-.particles content {
+.content {
+    top: 0;
+    left: 0;
+    position: fixed;
+    width: 100vw !important;
+    height: 100vh !important;
+}
+
+.particles {
     position: absolute;
     width: 100vw !important;
     height: 100vh !important;
