@@ -1,71 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@400;600&display=swap');
 #particle-div {
     margin: 0 auto;
     background-color: black;
-}
-
-.content {
-    top: 0;
-    left: 0;
-    position: relative;
     width: 100vw !important;
     height: 100vh !important;
 }
 
-.particles {
-    position: absolute;
-    width: 100vw !important;
-    height: 100vh !important;
-}
-
-html {
-    overflow: hidden;
-    font-family: 'Lexend', sans-serif !important;
-    background-color: #000;
-}
-
-.logo {
-    width: 20vw;
-}
-
-.pitch {
-    font-size: 0.8vw;
-    font-weight: 600;
-    color: white;
-    text-align: center;
-    margin-top: 5vh;
-}
-
-.buttons {
-    display: flex;
-    justify-content: center;
-}
-
-.button {
-    width: 10vw;
-    height: 5vh;
-    border-radius: 5px;
-    background-color: #00d1ff;
-    color: #fff;
-    font-size: 1vw;
-    font-weight: 600;
-    text-decoration: none;
-    text-align: center;
-    margin: 0.5vw;
-    line-height: 4.5vh;
-}
-
-.button:hover {
-    background-color: aliceblue;
-    color: #00d1ff;
-    transform: scale(1.1);
-}
-
-footer {
-    position: fixed;
-    left: 50%;
-    bottom: -20px;
-    transform: translate(-50%, -50%);
-    margin: 0 auto;
-    color: #fff;
+body {
+    background-color: black
 }
