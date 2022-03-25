@@ -7,7 +7,7 @@
 .content {
     top: 0;
     left: 0;
-    position: fixed;
+    position: relative;
     width: 100vw !important;
     height: 100vh !important;
 }
