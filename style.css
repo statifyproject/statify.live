@@ -1,10 +1,59 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@400;600&display=swap');
 #particle-div {
     margin: 0 auto;
     background-color: black;
+}
+
+.particles {
     width: 100vw !important;
     height: 100vh !important;
 }
 
-body {
-    background-color: black
+html{
+    overflow:hidden;
+  }
+
+  .susamogus {
+      text-align: center;
+  }
+
+  .btn {
+      border-radius: 434234px;
+  }
+  
+  .btnbtn:hover {
+    -webkit-box-shadow:0px 0px 300px 21px rgba(0,208,255,0.78);
+-moz-box-shadow: 0px 0px 300px 21px rgba(0,208,255,0.78);
+box-shadow: 0px 0px 300px 21px rgba(0,208,255,0.78);
+  }
+
+  .title1 {
+      font-size: 23px
+  }
+
+.font {
+    font-family: 'Lexend', sans-serif !important;
+    color: white;
 }
+
+.footer {
+    margin-bottom: 7vh;
+}
+
+body {
+    background-color: black !important;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: black;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: -webkit-linear-gradient(top right, #4287f5, #4e42f5);
+    border-radius: 30px;
+  }
