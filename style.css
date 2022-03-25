@@ -4,7 +4,7 @@
     background-color: black;
 }
 
-.particles {
+.particles content {
     position: absolute;
     width: 100vw !important;
     height: 100vh !important;
